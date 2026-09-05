@@ -10,6 +10,14 @@ A Grok Bot teammate and Grok Build plugin that assembles **SSI-safe** grant and 
 
 It researches official sources, drafts narrative + budget + attachment checklists, and **stops before any submit, email, portal upload, or payment**.
 
+## Add in Grok Bot
+
+Public template (inspect before you Add):
+
+https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef
+
+Deep link: `grokbot://app/v1/bot-template?id=kbP2DWs6cKSWqeRtQhIef`
+
 ## What this is not
 
 - Not a lawyer, SSA claims representative, or guaranteed-award service.
@@ -27,14 +35,13 @@ grok plugin install georgia-grant-packet --trust
 
 Until then, clone this repo and add it as a local marketplace source.
 
-## Install as a Grok Bot teammate
+## Install as a Grok Bot teammate (from source)
 
 1. Open Grok Bot → **+** → **Create New Bot**.
 2. Name it `Grant Packet Assembler`.
 3. Paste the contents of `agents/grant-packet-assembler.md` into Instructions.
 4. Attach the skill at `skills/georgia-grant-packet/SKILL.md` if your client supports skill files.
 5. Share → **Public** only after you have removed any personal facts you typed during testing.
-6. Copy the `x.ai/bot/...` share link.
 
 Full share checklist: `GROK_BOT_SHARE.md`.
 
@@ -46,7 +53,7 @@ Read-only official research. No credentials required.
 - `https://gvs.georgia.gov` and GVRA public pages
 - `https://www.georgiasbdc.org`
 - `https://www.ssa.gov` (PASS / SSI public pages only)
-- Georgia DBHDD and White County / rural development public pages as needed
+- Georgia DBHDD and rural development public pages as needed
 
 The bot must cite the live URL it fetched. It must not invent deadlines or award amounts.
 

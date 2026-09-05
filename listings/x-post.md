@@ -1,11 +1,12 @@
-Grant Packet Assembler is live as a Grok Bot + Grok Build plugin.
+Grant Packet Assembler is live.
+
+Add it in Grok Bot:
+https://x.ai/bot/kbP2DWs6cKSWqeRtQhIef
 
 Job: SSI-safe Georgia grant packets (OneGeorgia, GVRA, SBDC, DOBE, PASS).
 It drafts. You submit.
 No SSN. No auto-file. No fake deadlines.
 
-Repo (MIT): https://github.com/omgawdmadeit1/georgia-grant-packet-bot
-LVL pack: paste this after the open-marketplace URL is live
-Official Grok Bot add link: paste https://x.ai/bot/... here after you tap Share → Public
+Source (MIT): https://github.com/omgawdmadeit1/georgia-grant-packet-bot
 
-If you run Grok Bot, inspect the instructions before you Add.
+Inspect the instructions before you Add.
