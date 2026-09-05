@@ -1,0 +1,13 @@
+{
+  "name": "georgia-grant-packet",
+  "version": "1.0.0",
+  "description": "Assemble SSI-safe Georgia grant and self-employment packets for OneGeorgia, GVRA, SBDC, DOBE, and PASS. Research official sources, draft narrative and budget, run a compliance checklist, and stop before any submission or send.",
+  "author": {
+    "name": "LVL LTD CO",
+    "url": "https://lvlltd.com"
+  },
+  "homepage": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot",
+  "repository": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot",
+  "license": "MIT",
+  "keywords": ["grant", "georgia", "onegeorgia", "gvra", "pass", "dobe", "sbdc", "ssi", "disability", "rural"]
+}
