@@ -1,1 +1,5 @@
-PENDING — paste the lvlltd.com open-marketplace listing URL after MetaMask publish.
+https://lvlltd.com/hub/upload/?sku=LVL-1788587676899
+SKU: LVL-1788587676899
+Price: 6.99 USDC
+Fee: 15% free tier (5.94 to creator / 1.05 platform on confirm)
+Escrow: 0x95664Aebf479E6A6DEF2Bfc0C1A81226F83Bd7D6 on Base
