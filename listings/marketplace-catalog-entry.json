@@ -5,7 +5,7 @@
   "source": {
     "source": "url",
     "url": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot.git",
-    "sha": "REPLACE_AFTER_PIN"
+    "sha": "f0d8b3e6e9f304f3a9a77eaed7bbd86bc9cc1a1d"
   },
   "homepage": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot",
   "keywords": ["georgia grant", "onegeorgia", "gvra", "pass plan", "dobe", "sbdc", "ssi safe grant"],
