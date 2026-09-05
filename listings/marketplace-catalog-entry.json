@@ -1,0 +1,13 @@
+{
+  "name": "georgia-grant-packet",
+  "description": "Assemble SSI-safe Georgia grant and self-employment packets for OneGeorgia, GVRA, SBDC, DOBE, and PASS. Research official sources, draft narrative and budget, run a compliance checklist, and stop before any submission or send.",
+  "category": "productivity",
+  "source": {
+    "source": "url",
+    "url": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot.git",
+    "sha": "REPLACE_AFTER_PIN"
+  },
+  "homepage": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot",
+  "keywords": ["georgia grant", "onegeorgia", "gvra", "pass plan", "dobe", "sbdc", "ssi safe grant"],
+  "domains": ["onegeorgia.org", "gvs.georgia.gov", "georgiasbdc.org", "ssa.gov", "lvlltd.com"]
+}

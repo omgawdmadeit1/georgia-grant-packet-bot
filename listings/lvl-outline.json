@@ -1,0 +1,23 @@
+{
+  "skill_id": "georgia-grant-packet",
+  "title": "Georgia Grant Packet Assembler",
+  "tagline": "SSI-safe OneGeorgia / GVRA / SBDC / DOBE / PASS packet drafts. Human submits.",
+  "category": "funding-grants",
+  "price_usd": 6.99,
+  "what_it_does": "Produces an eligibility memo, narrative, budget, attachment checklist, SSI/PASS risk memo, and official submit-channel note from facts the buyer pastes. Cites live official URLs. Stops before submit.",
+  "who_it_is_for": "Georgia founders, disability-owned or rural small businesses, and agents hiring a grant specialist for a single packet.",
+  "included_after_pay": [
+    "skills/georgia-grant-packet/SKILL.md",
+    "skills/georgia-grant-packet/references/program-map.md",
+    "agents/grant-packet-assembler.md",
+    "GROK_BOT_SHARE.md"
+  ],
+  "free_eval": "This outline plus a sample eligibility section using public program pages only.",
+  "never_included": [
+    "SSN or benefit amounts",
+    "auto-submit to any portal",
+    "guaranteed award language"
+  ],
+  "network": "Base USDC x402",
+  "homepage": "https://github.com/omgawdmadeit1/georgia-grant-packet-bot"
+}
